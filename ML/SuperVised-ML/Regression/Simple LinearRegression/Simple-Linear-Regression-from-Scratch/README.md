@@ -9,20 +9,20 @@ This project focuses on:-
 - Traing the model using Synthetic data
 - visualizing the regression line
 
-  # Key Concept Convered
-  - Linear Regression
-  - Cost Function
-  - GDA (Gradient Descent Algorithm)
-  - Model Traning from scratch
-  - Synthetic Data generation
-  - Data Visualization
+# Key Concept Convered
+- Linear Regression
+- Cost Function
+- GDA (Gradient Descent Algorithm)
+- Model Traning from scratch
+- Synthetic Data generation
+- Data Visualization
  
-    # Technologies Used
-    - Python
-    - Numpy
-    - Matplotlib
-    - Axes3D
-      (No Machin Learning Libraries used)
+# Technologies Used
+- Python
+- Numpy
+- Matplotlib
+- Axes3D
+(No Machin Learning Libraries used)
 
 # Dataset
 - The Dataset is sythetically Generated
